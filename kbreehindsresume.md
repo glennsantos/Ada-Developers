@@ -1,7 +1,3 @@
-# Ada-Developers
-Resume
-
-
 ##K. Bree Hinds:
 
 ####2132 N. 120th St.
@@ -10,10 +6,19 @@ Resume
 ####kbreehinds@gmail.com
 
 ##Objective
-To obtain the position of Director, using the skill-set that I have developed from 15 years in the broadcast industry to execute high quality newscasts.
+To enter the Ada Developers Academy 2015 cohort and parlay that learning expereince into a new and exciting career.
+
+
+## Education
+Masters of Arts in Broadcast Journalism
+The University of Nebraska – Lincoln, NE
+
+Bachelor of Arts Communications & Theatre Arts
+The University of Iowa – Iowa City, IA
+
 
 ##Experience
-NWCN, Seattle WA
+#####NWCN, Seattle WA
 
 Dec, 2012 – Present
 
@@ -31,7 +36,8 @@ May, 2005 – December, 2012
 
 Morning Newscast Director
 
- * Collaborated with producers and led production team in the actualization of 2.5 hours of daily news on Southern Arizona’s highest rated HD morning newscast
+ * Collaborated with producers and led production team in the actualization of 2.5 hours of daily news on Southern Arizona’s  
+   highest rated HD morning newscast
  * 2009 Emmy Nominee
  * Updated TucsonNewsNow.com video elements
  * Trained on-air talent and crew on equipment and computer programs
@@ -39,6 +45,7 @@ Morning Newscast Director
  * Employee of the Year
 
 ##### Disney Worldwide Services, Inc, (ESPN/ABC Product), Tucson AZ
+
 June 2009 – October, 2010
 
 Freelance Utilities
@@ -48,32 +55,24 @@ Freelance Utilities
  * Strike set and load trucks for travel to next location
 
 
-##### Education
-Masters of Arts in Broadcast Journalism
-The University of Nebraska – Lincoln, NE
+## Equipment Skills
 
-Bachelor of Arts Communications & Theatre Arts
-The University of Iowa – Iowa City, IA
-
-##### Equipment Skills
- * Switchers & Graphics:
+##### Switchers & Graphics:
  * Snell & Wilcox Kahuna, Sony Digital, Grass Valley & Ross Video switchers
  * Adobe Photoshop
  * Pinnacle Extreme & Prizm Video
  * Workstation DVE systems
  * AVID Thunder animation system
- * Deko Lightening, Spencer & Harris
- * still store systems
+ * Deko Lightening, Spencer & Harris still store systems
  * Pinnacle Deko FXII & Chyron Duet character generators
 
 ##### Editing Systems:
  * Pinnacle Studio & Avid non-liner editing systems
  * Avid Pilot Airspeed & Countdown
  * Final Cut Pro
- * Deck to deck editing to include
- * DVCpro, Super VHS & Beta
+ * Deck to deck editing to include DVCpro, Super VHS & Beta
 
-###### Production Equipment:
+##### Production Equipment:
  * Cameras
  * Microphones
  * Hanging & focusing of lights
@@ -85,7 +84,7 @@ The University of Iowa – Iowa City, IA
  * iNews
 
 ##### Computer Systems:
- * Windows XP, Vista and 7
- * Office Suite 2010
+ * Windows
+ * Office Suite
  * Adobe Creative Suite
- * Apple OS 10.7
+ * Apple OS
