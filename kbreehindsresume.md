@@ -2,14 +2,14 @@
 
 #### 2132 N. 120th St.
 #### Seattle, WA 98133
-#### C: (520) 609-6551
+#### (520) 609-6551
 #### kbreehinds@gmail.com
 
-##Objective
+##Objective:
 To enter the Ada Developers Academy 2015 cohort and parlay that learning expereince into a new and exciting career.
 
 
-## Education
+## Education:
 Masters of Arts in Broadcast Journalism
 The University of Nebraska – Lincoln, NE
 
@@ -17,7 +17,7 @@ Bachelor of Arts Communications & Theatre Arts
 The University of Iowa – Iowa City, IA
 
 
-##Experience
+##Experience:
 #####NWCN, Seattle WA
 
 Dec, 2012 – Present
@@ -55,9 +55,7 @@ Freelance Utilities
  * Strike set and load trucks for travel to next location
 
 
-## Equipment Skills
-
-##### Switchers & Graphics:
+## Equipment Skills:
  * Snell & Wilcox Kahuna, Sony Digital, Grass Valley & Ross Video switchers
  * Pinnacle Extreme & Prizm Video Workstation DVE systems
  * AVID Thunder animation system
