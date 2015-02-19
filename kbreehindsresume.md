@@ -1,9 +1,9 @@
-##K. Bree Hinds:
+## K. Bree Hinds
 
-####2132 N. 120th St.
-####Seattle, WA 98133
-####C: (520) 609-6551
-####kbreehinds@gmail.com
+#### 2132 N. 120th St.
+#### Seattle, WA 98133
+#### C: (520) 609-6551
+#### kbreehinds@gmail.com
 
 ##Objective
 To enter the Ada Developers Academy 2015 cohort and parlay that learning expereince into a new and exciting career.
@@ -36,8 +36,8 @@ May, 2005 – December, 2012
 
 Morning Newscast Director
 
- * Collaborated with producers and led production team in the actualization of 2.5 hours of daily news on Southern Arizona’s  
-   highest rated HD morning newscast
+ * Collaborated with producers and led production team in the actualization of 2.5 hours of daily news on Southern
+   Arizona’s highest rated HD morning newscast
  * 2009 Emmy Nominee
  * Updated TucsonNewsNow.com video elements
  * Trained on-air talent and crew on equipment and computer programs
@@ -59,31 +59,13 @@ Freelance Utilities
 
 ##### Switchers & Graphics:
  * Snell & Wilcox Kahuna, Sony Digital, Grass Valley & Ross Video switchers
- * Adobe Photoshop
- * Pinnacle Extreme & Prizm Video
- * Workstation DVE systems
+ * Pinnacle Extreme & Prizm Video Workstation DVE systems
  * AVID Thunder animation system
- * Deko Lightening, Spencer & Harris still store systems
  * Pinnacle Deko FXII & Chyron Duet character generators
+ * Final Cut Pro, Pinnacle Studio & Avid non-liner editing systems
 
-##### Editing Systems:
- * Pinnacle Studio & Avid non-liner editing systems
- * Avid Pilot Airspeed & Countdown
- * Final Cut Pro
- * Deck to deck editing to include DVCpro, Super VHS & Beta
-
-##### Production Equipment:
- * Cameras
- * Microphones
- * Hanging & focusing of lights
- * Lighting boards
- * Audio boards
-
-##### Newsroom Systems:
- * ENPS
- * iNews
-
-##### Computer Systems:
+## Computer Systems:
+ * ENPS & iNews newsroom systems
  * Windows
  * Office Suite
  * Adobe Creative Suite
